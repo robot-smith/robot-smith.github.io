@@ -1,16 +1,11 @@
 # Business Analysis
 
-## IIBA Definition
+The definition from the IIBA BABOK v3:
 
-### BABOK v3, section 1.2
+The practice of
+enabling **change** in the **context** of an enterprise
+by defining **needs** and recommending **solutions**
+that deliver **value** to **stakeholders**.
 
-Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders.
-Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.
-
-### Variant of definition
-
-Business Analysis is the practice of enabling change in an **organizational context**, by defining needs and recommending solutions that deliver value to stakeholders.
-The set of tasks and techniques that are used to perform business analysis are defined in A Guide to the Business Analysis Body of Knowledge® (BABOK® Guide).
-[[www.iiba.org]](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/)
-
-The difference is explained by the updated terminology from V2 to V3 which has not permeated throughout the document ecosystem.
+The highlighted words are the six core concepts in the BACCM (Business Analysis Core Concept Model).
+Knowing this would be more useful to me if I hadn't finally decided that the BCS route was more appropriate to my needs.
