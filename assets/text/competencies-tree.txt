@@ -1,0 +1,220 @@
+Competencies
+    BCS/Paul&Cadle
+        Personal qualities
+            Communication
+            Relationship building
+            Influencing
+            Facilitation
+            Resilience
+            Analytical thinking skills
+            Attention to detail
+            Problem solving
+            Leadership
+            Adaptable mindset
+            Political awareness
+            Team working
+            Professionalism
+        Business knowledge
+            Commercial awareness
+            Business case development
+            Domain knowledge
+            Subject matter expertise
+            Digital technology
+            Organisation structures
+            Supplier management
+            Enterprise and related architectures
+        Professional techniques
+            Stakeholder analysis and management
+            Strategy analysis
+            Investigation techniques
+            Requirements engineering
+            Business process modelling
+            Data modelling
+            Idea generation and visualisation
+            Gap analysis
+            Benefits management
+            Project management
+            Portfolio management
+    BABOKv3
+        Analytical Thinking and Problem Solving
+            Creative Thinking
+            Decision Making
+            Learning
+            Problem Solving
+            Systems Thinking
+            Conceptual Thinking,
+            Visual Thinking
+        Behavioural Characteristics
+            Ethics
+            Personal Accountability
+            Trustworthiness
+            Organization and Time Management
+            Adaptability
+        Business Knowledge
+            Business Acumen
+            Industry Knowledge
+            Organization Knowledge
+            Solution Knowledge
+            Methodology Knowledge
+        Communication Skills
+            Verbal Communication
+            Non-Verbal Communication
+            Written Communication
+            Listening
+        Interaction Skills
+            Facilitation
+            Leadership and Influencing
+            Teamwork
+            Negotiation and Conflict Resolution
+            Teaching
+        Tools and Technology
+            Office Productivity Tools and Technology
+            Business Analysis Tools and Technology
+            Communication Tools and Technology
+    SFIA8
+        Strategy and architecture
+            Strategy and planning
+                Strategic planning (ITSP)
+                Information systems coordination (ISCO)
+                Information management (IRMG)
+                Enterprise and business architecture (STPL)
+                Solution architecture (ARCH)
+                Innovation (INOV)
+                Emerging technology monitoring (EMRG)
+                Research (RSCH)
+                Demand management (DEMM)
+                Investment appraisal (INVA)
+                Financial management (FMIT)
+                Measurement (MEAS)
+                Sustainability (SUST)
+                Continuity management (COPL)
+            Security and privacy
+                Information security (SCTY)
+                Information assurance (INAS)
+                Personal data protection (PEDP)
+                Vulnerability research (VURE)
+                Threat intelligence (THIN)
+            Governance, risk and compliance
+                Governance (GOVN)
+                Risk management (BURM)
+                Audit (AUDT)
+                Quality management (QUMG)
+                Quality assurance (QUAS)
+            Advice and guidance
+                Consultancy (CNSL)
+                Specialist advice (TECH)
+                Methods and tools (METL)
+        Change and transformation
+            Change implementation
+                Portfolio management (POMG)
+                Programme management (PGMG)
+                Project management (PRMG)
+                Portfolio, programme and project support (PROF)
+            Change analysis
+                Business situation analysis (BUSA)
+                Feasibility assessment (FEAS)
+                Requirements definition and management (REQM)
+                Business modelling (BSMO)
+                Acceptance testing (BPTS)
+            Change planning
+                Business process improvement (BPRE)
+                Organisational capability development (OCDV)
+                Organisation design and implementation (ORDI)
+                Organisational change management (CIPM)
+                Benefits management (BENM)
+        Development and implementation
+            Systems development
+                Product management (PROD)
+                Systems development management (DLMG)
+                Systems and software life cycle engineering (SLEN)
+                Systems design (DESN)
+                Software design (SWDN)
+                Network design (NTDS)
+                Hardware design (HWDE)
+                Programming/software development (PROG)
+                Systems integration and build (SINT)
+                Testing (TEST)
+                Software configuration (PORT)
+                Real-time/embedded systems development (RESD)
+                Safety engineering (SFEN)
+                Safety assessment (SFAS)
+                Radio frequency engineering (RFEN)
+                Animation development (ADEV)
+            Data and analytics
+                Data management (DATM)
+                Data modelling and design (DTAN)
+                Database design (DBDS)
+                Data engineering (DENG)
+                Database administration (DBAD)
+                Data science (DATS)
+                Machine learning (MLNG)
+                Business intelligence (BINT)
+                Data visualisation (VISL)
+            User experience
+                User research (URCH)
+                User experience analysis (UNAN)
+                User experience design (HCEV)
+                User experience evaluation (USEV)
+            Content management
+                Content authoring (INCA)
+                Content publishing (ICPM)
+                Knowledge management (KNOW)
+            Computational science
+                Scientific modelling (SCMO)
+                Numerical analysis (NUAN)
+                High-performance computing (HPCC)
+        Delivery and operation
+            Technology management
+                Technology service management (ITMG)
+                Application support (ASUP)
+                IT infrastructure (ITOP)
+                System software (SYSP)
+                Network support (NTAS)
+                Systems installation and removal (HSIN)
+                Configuration management (CFMG)
+                Release and deployment (RELM)
+                Storage management (STMG)
+                Facilities management (DCMA)
+            Service management
+                Service level management (SLMO)
+                Service catalogue management (SCMG)
+                Availability management (AVMT)
+                Capacity management (CPMG)
+                Incident management (USUP)
+                Problem management (PBMG)
+                Change control (CHMG)
+                Asset management (ASMG)
+                Service acceptance (SEAC)
+            Security services
+                Security operations (SCAD)
+                Vulnerability assessment (VUAS)
+                Digital forensics (DGFS)
+                Penetration testing (PENT)
+        People and skills
+            People management
+                Performance management (PEMT)
+                Employee experience (EEXP)
+                Organisational facilitation (OFCL)
+                Professional development (PDSV)
+                Workforce planning (WFPL)
+                Resourcing (RESC)
+            Skills management
+                Learning and development management (ETMG)
+                Learning design and development (TMCR)
+                Learning delivery (ETDL)
+                Competency assessment (LEDA)
+                Certification scheme operation (CSOP)
+                Teaching (TEAC)
+                Subject formation (SUBF)
+        Relationships and engagement
+            Stakeholder management
+                Sourcing (SORC)
+                Supplier management (SUPP)
+                Contract management (ITCM)
+                Stakeholder relationship management (RLMT)
+                Customer service support (CSMG)
+                Business administration (ADMN)
+            Sales and marketing
+                Marketing (MKTG)
+                Selling (SALE)
+                Sales support (SSUP)
