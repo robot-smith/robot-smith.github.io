@@ -1,0 +1,39 @@
+rclone --vfs-cache-mode writes mount onedrive: /home/LAUNDRY/onedrive
+
+du -a . | sort -n -r | head -n 50
+
+find  -type f  -exec  du -Sh {} +  |  sort -rh  |  head -n 50
+
+convert big.png -verbose -strip -resize 640x640 -quality 75 -density 72x72 -units pixelsperinch small.jpg
+
+mogrify -sampling-factor 4:2:0 -strip -quality 85 -interlace Plane -gaussian-blur 0.05 -colorspace RGB -path ./compressed *.jpg
+
+mogrify -crop 1430x1030+0+0 -path ./cropped *.jpg
+
+bundle install
+bundle exec jekyll serve --livereload
+
+date --iso-8601=seconds
+
+pdfimages -list 2020-01-18_093554.pdf
+
+while true; do sleep 5; df -h /; done
+
+rclone rcd --rc-web-gui
+
+sudo letsencrypt certonly --manual -d xxxxxxxxxx.com -d www.xxxxxxxxxx.com
+
+tar --exclude=./local --exclude=./.cache --exclude=./.config/google-chrome -czvf /media/robert/LACIE/2022-03-28-robert.tar.gz .
+
+git config --global core.editor vi
+
+  427  pandoc -s --toc -c pandoc.css -A footer.html readme.md -o readme.html
+  428  pandoc -f markdown -t html5 -A footer.html -o readme.html readme.md -c pandoc.css 
+  429  pandoc -f markdown -t html5 --metadata pagetitle="README" -A footer.html -o readme.html readme.md -c pandoc.css
+
+  318  find . -type f | sed 's/.*\.//' | sort | uniq -c
+  319  rename -d -v 's/\.MOV$/.mov/' */*
+  320  find . -type f | sed 's/.*\.//' | sort | uniq -c
+  321  rename -d -n 's/\ /_/g' */*
+  322  rename -d -v 's/\ /_/g' */*
+
